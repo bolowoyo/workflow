@@ -1,4 +1,4 @@
 # workflow
 
-This is a test of the workflow 
+Testing workflow and validating actions 
 
